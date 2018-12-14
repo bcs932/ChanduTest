@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 208E-001F
+
+ Directory of C:\Users\user\Desktop\gittest
+
+14-12-2018  16:44    <DIR>          .
+14-12-2018  16:44    <DIR>          ..
+13-12-2018  16:03               343 test.txt
+14-12-2018  16:44                 0 testbranch.txt
+               2 File(s)            343 bytes
+               2 Dir(s)  26,510,864,384 bytes free
